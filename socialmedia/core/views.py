@@ -14,7 +14,7 @@ def signup(request):
         username = request.POST['username']
         email = request.POST['email']
         password = request.POST['Password']
-        password2 = request.POST['password2']
+        password2 = request.POST['Password2']
 
         if password == password2:
             if User.objects.filter(email=email).exists():
