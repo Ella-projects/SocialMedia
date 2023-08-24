@@ -19,17 +19,16 @@ def signup(request):
         if password == password2:
             if User.objects.filter(email=email).exists():
                 messages.info(request,'Email Taken')
-                return redirect('Signup')
+                return redirect('signup')
             elif User.objects.filter(username = username).exists():
                 messages.info(request,'Username Taken')
-                return redirect ('Signup')
+                return redirect ('signup')
             else :
                 user = User.objects.create_user(username=username, email=email, password=password)
                 user.save()
         else:
             messages.info(request, 'Password Not Matching')
-            return redirect('Signup')
-
+            return redirect('signup')
 
     else:
         return render (request, 'signup.html')
