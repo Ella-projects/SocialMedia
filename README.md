@@ -7,7 +7,6 @@ Welcome to the official repository for **Social Media**! This platform aims to p
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
@@ -30,16 +29,9 @@ Provide instructions for setting up and running your website locally. This could
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-social-media.git`
+1. Clone this repository
 2. Navigate to the project directory: `cd your-social-media`
-3. Create and activate a virtual environment: `python -m venv venv` (or use your preferred method)
-4. Install dependencies: `pip install -r requirements.txt`
-
-### Usage
-
-1. Configure your database settings in `settings.py`.
-2. Apply migrations: `python manage.py migrate`
-3. Create a superuser account: `python manage.py createsuperuser`
+3. Apply migrations: `python manage.py migrate`
 4. Start the development server: `python manage.py runserver`
 5. Access the website at `http://127.0.0.1:8000/`
 
@@ -55,3 +47,5 @@ We welcome contributions from the community! If you're interested in improving *
 ## Contact
 
 For questions, feedback, or support, please reach out to me at demmanuella45@gmail.com.
+
+## How the website looks like
