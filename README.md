@@ -49,3 +49,8 @@ We welcome contributions from the community! If you're interested in improving *
 For questions, feedback, or support, please reach out to me at demmanuella45@gmail.com.
 
 ## How the website looks like
+
+<img width="1434" alt="Screenshot 2023-09-01 at 08 25 25" src="https://github.com/Ella-projects/SocialMedia/assets/129505756/250b8174-cb5a-4363-9335-a717165b0eac">
+<img width="1427" alt="Screenshot 2023-09-01 at 08 25 19" src="https://github.com/Ella-projects/SocialMedia/assets/129505756/e516b68b-30bc-4f57-92a7-a426dffac588">
+<img width="1440" alt="Screenshot 2023-09-01 at 08 25 51" src="https://github.com/Ella-projects/SocialMedia/assets/129505756/b402258d-b640-4240-a035-a137cc0098d5">
+
