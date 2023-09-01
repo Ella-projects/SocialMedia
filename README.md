@@ -13,7 +13,7 @@ Welcome to the official repository for **Social Media**! This platform aims to p
 
 ## About
 
-Briefly describe your social media website and its mission. Highlight what sets it apart from other platforms and what users can expect.
+Social media is a web app that incorporates some of Instagrams key features.
 
 ## Features
 
